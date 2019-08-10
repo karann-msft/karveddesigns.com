@@ -30,7 +30,7 @@ const // cache environment context
         styles:     `${ SRC }/styles`,
         images:     `${ SRC }/images`,
         templates:  `${ SRC }/templates`,
-        components: `${ SRC }/components`,
+        //components: `${ SRC }/components`,
     },
     // config: development
     development = {
